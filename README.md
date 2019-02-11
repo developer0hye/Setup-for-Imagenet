@@ -26,7 +26,7 @@ Test images 는 LSVRC 2012 대회가 열렸을 당시에 대회에 **제출된 �
 
 **DENSENET**
 
-![densenet](https://user-images.githubusercontent.com/35001605/52113478-b787a180-264c-11e9-8d52-afe2fb33f60b.png)
+![densenet](https://user-images.githubusercontent.com/35001605/52570579-11f7dd80-2e57-11e9-9fb0-c941a04d611e.png)
 
 따라서 Train images 를 통해 모델에 대한 학습을 수행하고 Validation images 로 검증을 수행하면 됩니다.
 
@@ -40,7 +40,7 @@ Test images 는 LSVRC 2012 대회가 열렸을 당시에 대회에 **제출된 �
 
 파란색 박스로 강조된 영역의 박스에 체크를 한뒤 Download 버튼을 누르고 토렌트를 실행하면 설치가 진행됩니다.
 
-![1](https://user-images.githubusercontent.com/35001605/52112160-0df2e100-2649-11e9-8fcf-323e70272059.png)
+![1](https://user-images.githubusercontent.com/35001605/52569830-626e3b80-2e55-11e9-91a2-16ac0684a89a.png)
 
 ![2](https://user-images.githubusercontent.com/35001605/52110952-a1c2ae00-2645-11e9-8c57-0209ab5f060c.png)
 
