@@ -58,7 +58,7 @@ Training set(Training images)과 Validation set(Validation images)을 설치하�
 
 모든 파일에 대해 압축을 해제하고 나면 데이터 셋은 다음과 같은 경로로 구성됩니다.
 
-```
+```python
 .../
   ILSVRC2012_img_train/
     n01440764/
