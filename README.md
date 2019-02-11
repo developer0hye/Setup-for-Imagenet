@@ -52,10 +52,24 @@ Training set(Training images)과 Validation set(Validation images)을 설치하�
 
 ![files](https://user-images.githubusercontent.com/35001605/52572986-72d5e480-2e5c-11e9-9187-323fc0273f8c.PNG)
 
-압축을 풀어줍니다.
+압축을 해제합니다. 이 때 Training set 의 경우 압축 파일 내부에 물체 종류별로 압축 파일이 존재하므로 모든 압축 파일을 해제하도록 합니다.
 
+![train_files](https://user-images.githubusercontent.com/35001605/52573708-0e1b8980-2e5e-11e9-95a0-f6dc1b5c93d4.PNG)
 
+모든 파일에 대해 압축을 해제하고 나면 데이터 셋은 다음과 같은 경로로 구성됩니다.
 
+```
+data/
+  train/
+    kuroko/
+      *.png
+    kagami/
+      *.png
+  test/
+    kuroko/
+      *.png
+    kagami/
+      *.png
+```
 
-
-
+### Validation set 정리
