@@ -18,18 +18,17 @@ Test images 는 LSVRC 2012 대회가 열렸을 당시에 대회에 **제출된 �
 
 **VGG**
 
-![vgg](https://user-images.githubusercontent.com/35001605/52113480-b787a180-264c-11e9-9741-b117edf52839.png)
+![vgg](https://user-images.githubusercontent.com/35001605/52570732-68fdb280-2e57-11e9-8d23-606417a65916.png)
 
 **RESNET**
 
-![resnet](https://user-images.githubusercontent.com/35001605/52113479-b787a180-264c-11e9-9024-5bd380e18560.png)
+![resnet](https://user-images.githubusercontent.com/35001605/52570731-68fdb280-2e57-11e9-9c34-ba0646161edd.png)
 
 **DENSENET**
 
-![densenet](https://user-images.githubusercontent.com/35001605/52570579-11f7dd80-2e57-11e9-9fb0-c941a04d611e.png)
+![densenet](https://user-images.githubusercontent.com/35001605/52570730-68651c00-2e57-11e9-95da-030039ab3263.png)
 
 따라서 Train images 를 통해 모델에 대한 학습을 수행하고 Validation images 로 검증을 수행하면 됩니다.
-
 
 
 **둘 째**, [토렌트](http://academictorrents.com/collection/imagenet-2012) 를 이용해서 설치할 수 있습니다.
