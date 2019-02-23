@@ -70,3 +70,4 @@ Training set은 이미지에 대해 폴더별로 Label 이 정리 되어있는 �
 추후에 이를 이용할 때, 처리가 용이하도록 Validation set 또한 Training set 과 동일하게 폴더별로 분류를 시켜줍시다.
 
 분류 방법은 아래와 같습니다.
+
