@@ -45,7 +45,7 @@ Training images 의 경우 용량이 100GB에 달하기 때문에 다운로드 �
 
 ## 데이터 정리
 
-Training set(Training images)과 Validation set(Validation images)을 설치하고 나면 아래의 파일들을 확인할 수 있습니다.
+Training set(Training images)과 Validation set(Validation images)을 설치하고 나면 아래의 파일들이 설치됨을 확인할 수 있습니다.
 
 ![files](https://user-images.githubusercontent.com/35001605/52572986-72d5e480-2e5c-11e9-9187-323fc0273f8c.PNG)
 
