@@ -49,32 +49,18 @@ Training set 의 경우 압축 파일 내부에 물체 종류 별로 압축 파�
 모든 파일에 대해 압축을 해제하고 나면 데이터 셋은 다음과 같은 경로로 구성됩니다.
 
 ```
-.../
+../
   ILSVRC2012_img_train/
     n01440764/
-      n01440764_18.JPEG
-      .
-      .
-      .
-      n01440764_32420.JPEG
-     .
-     .
-     .
+      n01440764_18.JPEG ... n01440764_32420.JPEG
+    .
+    .
+    .
     n15075141/
-      n15075141_27.JPEG
-      .
-      .
-      .
-      n15075141_53286.JPEG
+      n15075141_27.JPEG ... n15075141_53286.JPEG
       
   ILSVRC2012_img_val/
-    ILSVRC2012_img_val_00000001.JPEG
-    ILSVRC2012_img_val_00000002.JPEG
-    ILSVRC2012_img_val_00000003.JPEG
-    .
-    .
-    .
-    ILSVRC2012_img_val_00050000.JPEG
+    ILSVRC2012_img_val_00000001.JPEG ... ILSVRC2012_img_val_00050000.JPEG
 ```
 
 ### Validation set 정리
