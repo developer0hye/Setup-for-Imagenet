@@ -65,4 +65,8 @@ Training set 의 경우 압축 파일 내부에 물체 종류 별로 압축 파�
 
 ### Validation set 정리
 
-Training set은 이미지에 대해 폴더별로 Label 이 정리 되어있는 반면, Validation set의 경우 이미지에 대한 Label 이 분류되어 있지 않음을 확인할 수 있습니다.
+Training set은 이미지에 대해 폴더별로 Label 이 정리 되어있는 반면, Validation set의 경우 이미지에 대한 Label 이 분류되어 있지 않음을 확인할 수 있습니다. 
+
+추후에 이를 이용할 때, 처리가 용이하도록 Validation set 또한 Training set 과 동일하게 폴더별로 분류를 시켜줍시다.
+
+분류 방법은 아래와 같습니다.
