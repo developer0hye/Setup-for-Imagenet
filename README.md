@@ -18,7 +18,7 @@ Test set 은 LSVRC 2012 대회가 열렸을 당시에 대회에 **제출된 모�
 
 ### RESNET
 
-![resnet2](https://user-images.githubusercontent.com/35001605/53281175-9146b480-3767-11e9-89e0-fa8ea75f925c.png)
+![resnet2_down_2](https://user-images.githubusercontent.com/35001605/53281608-cf93a200-376e-11e9-9679-758ce8d59dc1.png)
 
 ### DENSENET
 
