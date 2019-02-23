@@ -8,7 +8,7 @@
 
 ![default](https://user-images.githubusercontent.com/35001605/52109318-6d002800-2640-11e9-8138-c478c94da897.png)
 
-Test set 은 LSVRC 2012 대회가 열렸을 당시에 대회에 **제출된 모델**에 대한 성능 평가를 위한 데이터셋으로 이에 대한 Label 을 따로 공개하지 않기 때문에 Test images 에 대한 성능 평가를 할 수 없습니다. 따라서 Test set 은 다운로드 받지 않아도 됩니다. 
+Test set 은 LSVRC 2012 대회가 열렸을 당시에 대회에 **제출된 모델**에 대한 성능 평가를 위한 데이터셋으로 이에 대한 Label 을 따로 공개하지 않기 때문에 Test set 에 대한 성능 평가를 할 수 없습니다. 따라서 Test set 은 다운로드 받지 않아도 됩니다. 
 
 이러한 이유로 많은 CNN(Convolutional Neural Network) 연구들이 **Validation set** 을 통해 성능 평가를 하는 것을 확인할 수 있습니다.
 
@@ -24,7 +24,7 @@ Test set 은 LSVRC 2012 대회가 열렸을 당시에 대회에 **제출된 모�
 
 ![densenet2](https://user-images.githubusercontent.com/35001605/53281173-8e4bc400-3767-11e9-8938-c27190f6c0e0.png)
 
-따라서 Train set 을 통해 모델에 대한 학습을 수행하고 Validation set 으로 평가를 수행하면 됩니다.
+따라서 Training set 을 통해 모델에 대한 학습을 수행하고 Validation set 으로 평가를 수행하면 됩니다.
 
 
 **둘 째**, [토렌트](http://academictorrents.com/collection/imagenet-2012) 를 이용해서 설치할 수 있습니다.
