@@ -18,15 +18,15 @@ Test images 는 LSVRC 2012 대회가 열렸을 당시에 대회에 **제출된 �
 
 **VGG**
 
-![vgg](https://user-images.githubusercontent.com/35001605/52570732-68fdb280-2e57-11e9-8d23-606417a65916.png)
+![vgg2](https://user-images.githubusercontent.com/35001605/53281180-9a378600-3767-11e9-95d4-d0b6fe751d3a.png)
 
 **RESNET**
 
-![resnet](https://user-images.githubusercontent.com/35001605/52570731-68fdb280-2e57-11e9-9c34-ba0646161edd.png)
+![resnet2](https://user-images.githubusercontent.com/35001605/53281175-9146b480-3767-11e9-89e0-fa8ea75f925c.png)
 
 **DENSENET**
 
-![densenet](https://user-images.githubusercontent.com/35001605/52570730-68651c00-2e57-11e9-95da-030039ab3263.png)
+![densenet2](https://user-images.githubusercontent.com/35001605/53281173-8e4bc400-3767-11e9-8938-c27190f6c0e0.png)
 
 따라서 Train images 를 통해 모델에 대한 학습을 수행하고 Validation images 로 검증을 수행하면 됩니다.
 
@@ -88,3 +88,4 @@ Training set(Training images)과 Validation set(Validation images)을 설치하�
 ```
 
 ### Validation set 정리
+
