@@ -13,15 +13,15 @@ Test images 는 LSVRC 2012 대회가 열렸을 당시에 대회에 **제출된 �
 
 이러한 이유로 많은 CNN(Convolutional Neural Network) 연구들이 Validation images 를 이용하여 성능 평가를 하는 것을 확인할 수 있습니다.
 
-**VGG**
+## VGG
 
 ![vgg2](https://user-images.githubusercontent.com/35001605/53281180-9a378600-3767-11e9-95d4-d0b6fe751d3a.png)
 
-**RESNET**
+## RESNET
 
 ![resnet2](https://user-images.githubusercontent.com/35001605/53281175-9146b480-3767-11e9-89e0-fa8ea75f925c.png)
 
-**DENSENET**
+## DENSENET
 
 ![densenet2](https://user-images.githubusercontent.com/35001605/53281173-8e4bc400-3767-11e9-8938-c27190f6c0e0.png)
 
@@ -41,7 +41,7 @@ Test images 는 LSVRC 2012 대회가 열렸을 당시에 대회에 **제출된 �
 ![2](https://user-images.githubusercontent.com/35001605/52110952-a1c2ae00-2645-11e9-8c57-0209ab5f060c.png)
 
 
-Training images 의 경우 용량이 100기가에 달하기 때문에 다운로드 받는데 오랜 시간이 걸릴 수 있습니다.
+Training images 의 경우 용량이 100GB에 달하기 때문에 다운로드 받는데 오랜 시간이 걸릴 수 있습니다.
 
 ## 데이터 정리
 
