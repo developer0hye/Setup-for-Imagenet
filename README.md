@@ -100,6 +100,6 @@ Training set은 이미지에 대해 폴더 별로 Label 이 정리 되어있는 
 
 4. 정리가 완료될 때 까지 기다립니다. 생각보다 시간이 오래 소요됩니다. 느긋히 기다리며 다른 일을 하시면 됩니다.
 
-5. Validation set 또한 각 이미지에 대하여 폴더 별로 분류가 되었음을 확인할 수 있습니다. 끝.
+5. Validation set 또한 각 이미지에 대하여 폴더 별로 분류가 되었음을 확인할 수 있습니다.
 
 ![val_after_cleanining](https://user-images.githubusercontent.com/35001605/53282873-5baec500-3781-11e9-8c12-befceb819075.PNG)
