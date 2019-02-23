@@ -22,10 +22,9 @@ Test set 은 LSVRC 2012 대회가 열렸을 당시에 대회에 **제출된 모�
 
 ### DENSENET
 
-![densenet2](https://user-images.githubusercontent.com/35001605/53281173-8e4bc400-3767-11e9-8938-c27190f6c0e0.png)
+![densenet2_down_2](https://user-images.githubusercontent.com/35001605/53281568-1c2aad80-376e-11e9-9130-8fc38042be4a.png)
 
 따라서 Training set 을 통해 모델에 대한 학습을 수행하고 Validation set 으로 평가를 수행하면 됩니다.
-
 
 **둘 째**, [토렌트](http://academictorrents.com/collection/imagenet-2012) 를 이용해서 설치할 수 있습니다.
 
