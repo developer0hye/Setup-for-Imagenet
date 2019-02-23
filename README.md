@@ -6,13 +6,12 @@
 
 **첫 째**, [공식 홈페이지](http://www.image-net.org/challenges/LSVRC/2012/nonpub-downloads) 에서 설치할 수 있습니다.
 
-홈페이지에 접속하면 아래와 같은 화면이 뜹니다. 이 후 이미지에서 파란색 박스로 강조된 부분의 하이퍼링크를 클릭하여 설치하면 됩니다.
+홈페이지에 접속한 후 파란색 박스로 강조된 두 영역을 클릭하여 설치하면 됩니다.
 
 ![default](https://user-images.githubusercontent.com/35001605/52109318-6d002800-2640-11e9-8138-c478c94da897.png)
 
-Test images 는 다운로드 받지 않아도 됩니다. 
 
-Test images 는 LSVRC 2012 대회가 열렸을 당시에 대회에 **제출된 모델**에 대한 성능 평가를 위한 데이터셋으로 이에 대한 Label 을 따로 공개하지 않기 때문에 Test images 에 대한 성능 검증이 불가능합니다. 
+Test images 는 LSVRC 2012 대회가 열렸을 당시에 대회에 **제출된 모델**에 대한 성능 평가를 위한 데이터셋으로 이에 대한 Label 을 따로 공개하지 않기 때문에 Test images 에 대한 성능 검증이 불가능합니다. 따라서 Test images 는 다운로드 받지 않아도 됩니다. 
 
 이러한 이유로 많은 CNN(Convolutional Neural Network) 연구들이 Validation images 를 이용하여 성능 검증을 하는 것을 볼 수 있습니다.
 
@@ -33,11 +32,11 @@ Test images 는 LSVRC 2012 대회가 열렸을 당시에 대회에 **제출된 �
 
 **둘 째**, [토렌트](http://academictorrents.com/collection/imagenet-2012) 를 이용해서 설치할 수 있습니다.
 
-홈페이지에 접속한 뒤에 아래의 사진과 같이 파란색 박스로 강조된 영역의 하이퍼링크를 클릭합니다.
+홈페이지에 접속한 후 파란색 박스로 강조된 영역을 클릭합니다.
 
 ![default](https://user-images.githubusercontent.com/35001605/52109801-0714a000-2642-11e9-98ba-eaa6359ce709.png)
 
-파란색 박스로 강조된 박스에 체크를 한뒤 Download 버튼을 누르고 토렌트를 실행하면 설치가 진행됩니다.
+체크를 한뒤 Download 버튼을 누르면 설치가 진행됩니다.
 
 ![1](https://user-images.githubusercontent.com/35001605/52569830-626e3b80-2e55-11e9-91a2-16ac0684a89a.png)
 
