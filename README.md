@@ -65,9 +65,41 @@ Training set 의 경우 압축 파일 내부에 물체 종류 별로 압축 파�
 
 ### Validation set 정리
 
-Training set은 이미지에 대해 폴더별로 Label 이 정리 되어있는 반면, Validation set의 경우 이미지에 대한 Label 이 분류되어 있지 않음을 확인할 수 있습니다. 
+Training set은 이미지에 대해 폴더 별로 Label 이 정리 되어있는 반면, Validation set의 경우 이미지에 대한 Label 이 분류되어 있지 않음을 확인할 수 있습니다. 
 
-추후에 이를 이용할 때, 처리가 용이하도록 Validation set 또한 Training set 과 동일하게 폴더별로 분류를 시켜줍시다.
+**Training set 예시**
+
+![training set inside](https://user-images.githubusercontent.com/35001605/53282752-b2b39a80-377f-11e9-8083-dee42a57303e.PNG)
+
+**Validation set 예시**
+
+![validation set inside](https://user-images.githubusercontent.com/35001605/53282754-b515f480-377f-11e9-8495-aa84ad7c3ae1.PNG)
+
+
+추후에 이를 이용할 때, 처리가 용이하도록 Validation set 또한 Training set 과 동일하게 이미지에 대해 폴더 별로 분류를 시켜주도록 하겠습니다.
 
 분류 방법은 아래와 같습니다.
 
+1. 본 repository 에 업로드 된 [Imagenet_val_setup.sh](https://github.com/developer0hye/Setup-for-Imagenet/blob/master/Imagenet_val_setup.sh) 을 설치합니다.
+
+2. Imagenet_val_setup.sh 를 ILSVRC2012_img_val 폴더 내부로 이동시킵니다.
+
+**파일 경로 예시**
+```
+../
+  ILSVRC2012_img_val/
+    ILSVRC2012_img_val_00000001.JPEG ... ILSVRC2012_img_val_00050000.JPEG
+    Imagenet_val_setup.sh
+```
+
+3. Imagenet_val_setup.sh 를 더블 클릭하여 실행 혹은 cmd 창에서 실행시켜줍니다.
+
+![sh run1](https://user-images.githubusercontent.com/35001605/53282877-68cbb400-3781-11e9-9b31-aa53b4b5f280.PNG)
+
+![sh run2](https://user-images.githubusercontent.com/35001605/53282876-68cbb400-3781-11e9-86e7-e94a0173320b.PNG)
+
+4. 정리가 완료될 때 까지 기다립니다. 생각보다 시간이 오래 소요됩니다. 느긋히 기다리며 다른 일을 하시면 됩니다.
+
+5. Validation set 또한 각 이미지에 대하여 폴더 별로 분류가 되었음을 확인할 수 있습니다. 끝.
+
+![val_after_cleanining](https://user-images.githubusercontent.com/35001605/53282873-5baec500-3781-11e9-8c12-befceb819075.PNG)
